@@ -1,6 +1,6 @@
 # Play IRONBLOOD in your browser
 
-**Play:** https://hhs-comits.github.io/ironblood.play/
+**Play:** https://hhs-comits.github.io/ironplay-ag/
 
 IRONBLOOD is a barbarian-age real-time strategy game. This repository holds only the
 built browser version (Godot 4.4 web export); the source code is kept elsewhere.
